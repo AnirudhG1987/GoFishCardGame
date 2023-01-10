@@ -1,0 +1,94 @@
+Super AI Player 0 created
+Super AI Player 1 created
+Super AI Player 2 created
+Initializing Super AI Database
+18
+Player 1 Card Details
+A 2 ; K 2 ; J 2 ; Q 1 ; 10 1 ; 3 1 ; 2 3 ; 5 1 ; 4 1 ; 7 1 ; 6 1 ; 9 1 ; 8 1 ;
+17
+Player 0 Card Details
+A 1 ; K 1 ; J 1 ; Q 1 ; 10 2 ; 3 3 ; 2 0 ; 5 3 ; 4 2 ; 7 2 ; 6 0 ; 9 1 ; 8 0 ;
+17
+Player 2 Card Details
+A 1 ; K 1 ; J 1 ; Q 2 ; 10 1 ; 3 0 ; 2 1 ; 5 0 ; 4 1 ; 7 1 ; 6 3 ; 9 2 ; 8 3 ;
+Game Begins Good Luck
+Player 0 Starts
+2 10 1
+Player 0 has taken 1 10 from Player 2
+1 10 1
+Player 0 has taken 1 10 from Player 1
+1 3 1
+Player 0 has taken 1 3 from Player 1
+1 5 1
+Player 0 has taken 1 5 from Player 1
+1 7 1
+Player 0 has taken 1 7 from Player 1
+1 A 1
+Player 0 has taken 1 A from Player 1
+2 K 1
+Player 0 has taken 1 K from Player 2
+2 K 1
+GO FISH!
+Player 0 loses turn to Player 2
+0 A 2
+Player 2 has taken 2 A from Player 0
+0 7 2
+Player 2 has taken 2 7 from Player 0
+1 2 1
+Player 2 has taken 1 2 from Player 1
+1 A 1
+Player 2 has taken 1 A from Player 1
+1 2 1
+Player 2 has taken 1 2 from Player 1
+0 9 1
+Player 2 has taken 1 9 from Player 0
+0 9 1
+GO FISH!
+Player 2 loses turn to Player 0
+2 7 3
+Player 0 has taken 3 7 from Player 2
+2 Q 1
+Player 0 has taken 1 Q from Player 2
+1 K 1
+Player 0 has taken 1 K from Player 1
+2 J 1
+Player 0 has taken 1 J from Player 2
+2 Q 1
+Player 0 has taken 1 Q from Player 2
+2 J 1
+GO FISH!
+Player 0 loses turn to Player 2
+0 4 1
+Player 2 has taken 1 4 from Player 0
+1 2 1
+Player 2 has taken 1 2 from Player 1
+1 9 1
+Player 2 has taken 1 9 from Player 1
+0 4 1
+Player 2 has taken 1 4 from Player 0
+1 4 1
+Player 2 has taken 1 4 from Player 1
+1 6 1
+Player 2 has taken 1 6 from Player 1
+0 8 1
+GO FISH!
+Player 2 loses turn to Player 0
+2 Q 1
+GO FISH!
+Player 0 loses turn to Player 2
+1 8 1
+Player 2 has taken 1 8 from Player 1
+Player 2 cannot continue as their sets are complete
+Player 0 is selected
+1 K 1
+Player 0 has taken 1 K from Player 1
+1 Q 1
+Player 0 has taken 1 Q from Player 1
+1 J 1
+Player 0 has taken 1 J from Player 1
+1 J 1
+Player 0 has taken 1 J from Player 1
+Player 0 cannot continue as their sets are complete
+Player 1 is selected
+{'0': 7, '2': 6}
+Thanks for playing
